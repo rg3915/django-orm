@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>Book List</title>
+{% endblock title %}
+
+{% block content %}
+
+    <form class="navbar-form navbar-right" action="." method="get">
+        <!-- add -->
+        <a href="#">
+            <button id="new_register" type="button" class="btn btn-primary">
+                <span class="glyphicon glyphicon-plus"></span> Adicionar
+            </button>
+        </a>
+        <!-- search form -->
+        <div class="form-group">
+            <input id="search_box" name="search_box" type="text" placeholder="Localizar..." class="form-control">
+            <button type="submit" class="btn btn-success form-control"><span class="glyphicon glyphicon-search"></span></button>
+        </div>
+    </form>
+
+    <h1>Lista de {{ name_plural.capitalize }}</h1>
+
+    <div>
+        {% if books %}
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Ator</th>
+                        <th>Editora</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for book in books %}
+                    <tr>
+                        <td>{{ book.name }}</td>
+                        <td>
+                            {% if book.authors.all.count == 1 %}
+                                {% for author in book.authors.all %}
+                                    {{ author.name }}
+                                {% endfor %}
+                            {% else %}
+                                    <a href="{{ book.get_absolute_url }}">vários autores</a>
+                            {% endif %}
+                        </td>
+                        <td>{{ book.publisher }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p class="alert alert-warning">Sem itens na lista.</p>
+        {% endif %}
+    </div>
+
+    <hr>
+    <div>
+        <h3><b>Total:</b> {{ count }}
+            {% if count <= 1 %}
+                {{ name }}
+            {% else %}
+                {{ name_plural }}
+            {% endif %}
+        </h3>
+    </div>
+
+
+<!-- pagination -->
+{% include "pagination.html" %}
+
+{% endblock content %}

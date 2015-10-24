@@ -1,0 +1,20 @@
+<!-- pagination -->
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+					{% if customers.has_previous %}
+						<li><a href="?page={{ customers.previous_page_number }}">&laquo;</a></li>
+					{% endif %}
+					{% for pg in customers.paginator.page_range %}
+						{% if customers.number == pg %}
+							<li class="active"><a href="?page={{ pg }}">{{ pg }}</a></li>
+						{% else %}
+							<li><a href="?page={{ pg }}">{{ pg }}</a></li>
+						{% endif %}
+					{% endfor %}
+					{% if customers.has_next %}
+						<li><a href="?page={{ customers.next_page_number }}">&raquo;</a></li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>

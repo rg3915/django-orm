@@ -1,0 +1,48 @@
+<html>
+<head>
+
+{% load staticfiles %}
+
+{% block extrastyle %}{% endblock %}
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+
+  <link rel="icon" href="{% static 'img/book_icon.png' %}">
+
+  <link href="{% static "css/bootstrap.min.css" %}" rel="stylesheet" type="text/css">
+  <link href="{% static "font-awesome-4.2.0/css/font-awesome.min.css" %}" rel="stylesheet" type="text/css">
+  <link href="{% static "css/myboot.css" %}" rel="stylesheet" type="text/css">
+
+
+    {% block title %}
+        <title>Bookstore</title>
+    {% endblock title %}
+
+  <style type="text/css">
+    body {
+      padding-top: 50px;
+    }
+  </style>
+
+
+</head>
+
+<body>
+
+{% include "menu.html" %}
+
+<div class="container">
+{% block content %}
+  
+{% endblock content %}
+
+</div>
+</body>
+</html>
+

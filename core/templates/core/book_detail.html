@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>Book Detail</title>
+{% endblock title %}
+
+{% block content %}
+
+	<ul class="breadcrumb">
+		<li><a href="{% url 'book_list' %}">Livros</a> <span class="divider"></span></li>
+		<li class="active">{{ object.name }}</li>
+	</ul>
+
+	<div class="list-group">
+		<h1>Livro: {{ object.name }}</h1>
+	
+		<h2 class="page-header">Autores</h2>	
+		{% for item in object.authors.all %}
+			<h4>{{ item.name }}</h4>
+		{% endfor %}
+	</div>
+
+{% endblock content %}

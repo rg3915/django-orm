@@ -1,0 +1,30 @@
+<!-- Menu -->
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{% url 'home' %}">Bookstore</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="{% url 'customer_list' %}"><span class="fa fa-user"></span> Clientes</a></li>
+        <li><a href="{% url 'book_list' %}"><span class="fa fa-book"></span> Livros</a></li>
+        <li><a href="{% url 'store_list' %}"><span class="fa fa-flag"></span> Lojas</a></li>
+
+        <!-- to resolve NoReverseMatch for 'admin' -->
+        <li><a href="{% url 'admin:index' %}"><span class="fa fa-cog"></span> Admin</a></li>
+        </li>
+      </ul>
+
+<!--       <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-exclamation-sign"></span> Sobre</a></li>
+      </ul>
+ -->
+    </div>
+  </div>
+</div>
+
