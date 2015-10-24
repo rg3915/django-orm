@@ -1,0 +1,3034 @@
+[
+{
+  "fields": {
+    "last_name": "Castanada",
+    "email": "a.castanada@example.com",
+    "first_name": "Alberta",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1973-12-15T23:56:44.899Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 1
+},
+{
+  "fields": {
+    "last_name": "Doyle",
+    "email": "k.doyle@example.com",
+    "first_name": "Krista",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1931-12-04T14:59:24.934Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 2
+},
+{
+  "fields": {
+    "last_name": "Lemon",
+    "email": "w.lemon@example.com",
+    "first_name": "William",
+    "gender": "M",
+    "treatment": "p",
+    "birthday": "1965-11-01T06:05:42.294Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 3
+},
+{
+  "fields": {
+    "last_name": "Clements",
+    "email": "f.clements@example.com",
+    "first_name": "Felicia",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1950-12-20T10:05:55.016Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 4
+},
+{
+  "fields": {
+    "last_name": "Vincent",
+    "email": "k.vincent@example.com",
+    "first_name": "Karina",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1921-11-28T06:33:55.604Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 5
+},
+{
+  "fields": {
+    "last_name": "Morado",
+    "email": "g.morado@example.com",
+    "first_name": "Gerald",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1985-12-23T18:53:33.401Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 6
+},
+{
+  "fields": {
+    "last_name": "Castro",
+    "email": "f.castro@example.com",
+    "first_name": "Florence",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1940-12-19T15:18:35.481Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 7
+},
+{
+  "fields": {
+    "last_name": "Whitenton",
+    "email": "j.whitenton@example.com",
+    "first_name": "John",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1954-12-17T02:34:06.346Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 8
+},
+{
+  "fields": {
+    "last_name": "Rich",
+    "email": "p.rich@example.com",
+    "first_name": "Patricia",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1994-11-13T10:40:06.048Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 9
+},
+{
+  "fields": {
+    "last_name": "Gibbs",
+    "email": "w.gibbs@example.com",
+    "first_name": "Wilbur",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1938-12-26T18:18:28.786Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 10
+},
+{
+  "fields": {
+    "last_name": "Forcello",
+    "email": "r.forcello@example.com",
+    "first_name": "Rose",
+    "gender": "F",
+    "treatment": "srta",
+    "birthday": "1990-11-23T05:51:47.450Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 11
+},
+{
+  "fields": {
+    "last_name": "Hopkins",
+    "email": "m.hopkins@example.com",
+    "first_name": "Magaly",
+    "gender": "F",
+    "treatment": "pa",
+    "birthday": "1936-11-16T11:33:31.031Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 12
+},
+{
+  "fields": {
+    "last_name": "Astorga",
+    "email": "w.astorga@example.com",
+    "first_name": "William",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1982-11-24T01:42:15.039Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 13
+},
+{
+  "fields": {
+    "last_name": "May",
+    "email": "c.may@example.com",
+    "first_name": "Christopher",
+    "gender": "M",
+    "treatment": "a",
+    "birthday": "1988-11-26T01:03:22.501Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 14
+},
+{
+  "fields": {
+    "last_name": "Williams",
+    "email": "r.williams@example.com",
+    "first_name": "Richard",
+    "gender": "M",
+    "treatment": "p",
+    "birthday": "1931-11-28T14:19:45.492Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 15
+},
+{
+  "fields": {
+    "last_name": "Williams",
+    "email": "m.williams@example.com",
+    "first_name": "Maricela",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1967-12-09T19:49:55.888Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 16
+},
+{
+  "fields": {
+    "last_name": "Lewis",
+    "email": "w.lewis@example.com",
+    "first_name": "William",
+    "gender": "M",
+    "treatment": "a",
+    "birthday": "1928-12-24T11:23:47.791Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 17
+},
+{
+  "fields": {
+    "last_name": "Stangl",
+    "email": "s.stangl@example.com",
+    "first_name": "Stacy",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1949-12-05T13:30:55.595Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 18
+},
+{
+  "fields": {
+    "last_name": "Hanson",
+    "email": "m.hanson@example.com",
+    "first_name": "Miranda",
+    "gender": "F",
+    "treatment": "pa",
+    "birthday": "1981-11-07T01:13:40.670Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 19
+},
+{
+  "fields": {
+    "last_name": "Medina",
+    "email": "j.medina@example.com",
+    "first_name": "Jack",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1991-11-15T11:23:49.722Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 20
+},
+{
+  "fields": {
+    "last_name": "Peterson",
+    "email": "g.peterson@example.com",
+    "first_name": "Gerald",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1981-12-10T17:12:47.898Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 21
+},
+{
+  "fields": {
+    "last_name": "Bramlett",
+    "email": "e.bramlett@example.com",
+    "first_name": "Esther",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1992-11-20T20:20:39.854Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 22
+},
+{
+  "fields": {
+    "last_name": "Jackson",
+    "email": "k.jackson@example.com",
+    "first_name": "Krista",
+    "gender": "F",
+    "treatment": "srta",
+    "birthday": "1991-11-18T15:15:45.769Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 23
+},
+{
+  "fields": {
+    "last_name": "Hubbard",
+    "email": "g.hubbard@example.com",
+    "first_name": "Gerardo",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1928-11-24T04:09:28.600Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 24
+},
+{
+  "fields": {
+    "last_name": "Hill",
+    "email": "c.hill@example.com",
+    "first_name": "Craig",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1994-11-27T09:53:58.441Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 25
+},
+{
+  "fields": {
+    "last_name": "Tawwater",
+    "email": "h.tawwater@example.com",
+    "first_name": "Harriet",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1928-11-27T15:50:24.922Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 26
+},
+{
+  "fields": {
+    "last_name": "Mossien",
+    "email": "m.mossien@example.com",
+    "first_name": "Mitchell",
+    "gender": "M",
+    "treatment": "p",
+    "birthday": "1946-12-26T03:56:43.911Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 27
+},
+{
+  "fields": {
+    "last_name": "Lawrence",
+    "email": "m.lawrence@example.com",
+    "first_name": "Monica",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1979-12-12T14:12:24.901Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 28
+},
+{
+  "fields": {
+    "last_name": "Zimmerman",
+    "email": "j.zimmerman@example.com",
+    "first_name": "Jerry",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1992-11-24T08:20:04.290Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 29
+},
+{
+  "fields": {
+    "last_name": "Capps",
+    "email": "j.capps@example.com",
+    "first_name": "Judith",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1927-11-11T05:11:26.738Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 30
+},
+{
+  "fields": {
+    "last_name": "Gonzalez",
+    "email": "p.gonzalez@example.com",
+    "first_name": "Patricia",
+    "gender": "F",
+    "treatment": "pa",
+    "birthday": "1931-12-03T20:08:33.829Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 31
+},
+{
+  "fields": {
+    "last_name": "Norman",
+    "email": "i.norman@example.com",
+    "first_name": "Isaiah",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1956-11-24T08:01:13.940Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 32
+},
+{
+  "fields": {
+    "last_name": "Meier",
+    "email": "a.meier@example.com",
+    "first_name": "Albert",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1961-11-21T19:11:28.506Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 33
+},
+{
+  "fields": {
+    "last_name": "Costa",
+    "email": "m.costa@example.com",
+    "first_name": "Manuel",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1927-12-03T14:39:07.762Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 34
+},
+{
+  "fields": {
+    "last_name": "Lucas",
+    "email": "h.lucas@example.com",
+    "first_name": "Henry",
+    "gender": "M",
+    "treatment": "a",
+    "birthday": "1945-11-25T11:38:55.132Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 35
+},
+{
+  "fields": {
+    "last_name": "Thomas",
+    "email": "v.thomas@example.com",
+    "first_name": "Virginia",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1968-11-09T03:05:39.023Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 36
+},
+{
+  "fields": {
+    "last_name": "Bonine",
+    "email": "r.bonine@example.com",
+    "first_name": "Rachel",
+    "gender": "F",
+    "treatment": "srta",
+    "birthday": "1972-12-15T05:05:30.772Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 37
+},
+{
+  "fields": {
+    "last_name": "Conrad",
+    "email": "a.conrad@example.com",
+    "first_name": "Angela",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1923-11-22T08:53:49.621Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 38
+},
+{
+  "fields": {
+    "last_name": "Coleman",
+    "email": "i.coleman@example.com",
+    "first_name": "Inez",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1917-12-02T16:06:25.840Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 39
+},
+{
+  "fields": {
+    "last_name": "Goldman",
+    "email": "h.goldman@example.com",
+    "first_name": "Holly",
+    "gender": "F",
+    "treatment": "pa",
+    "birthday": "1984-11-19T23:34:07.085Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 40
+},
+{
+  "fields": {
+    "last_name": "Shaffer",
+    "email": "s.shaffer@example.com",
+    "first_name": "Sam",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1966-11-23T06:03:32.513Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 41
+},
+{
+  "fields": {
+    "last_name": "Wallace",
+    "email": "d.wallace@example.com",
+    "first_name": "Dollie",
+    "gender": "F",
+    "treatment": "srta",
+    "birthday": "1947-11-22T12:27:44.980Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 42
+},
+{
+  "fields": {
+    "last_name": "Stevens",
+    "email": "c.stevens@example.com",
+    "first_name": "Carol",
+    "gender": "F",
+    "treatment": "ea",
+    "birthday": "1970-11-16T01:52:03.998Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 43
+},
+{
+  "fields": {
+    "last_name": "Scamehorn",
+    "email": "s.scamehorn@example.com",
+    "first_name": "Sara",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1972-11-09T16:58:06.794Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 44
+},
+{
+  "fields": {
+    "last_name": "Gowans",
+    "email": "k.gowans@example.com",
+    "first_name": "Kim",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1987-11-20T01:07:03.092Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 45
+},
+{
+  "fields": {
+    "last_name": "Santiago",
+    "email": "t.santiago@example.com",
+    "first_name": "Theresia",
+    "gender": "F",
+    "treatment": "ea",
+    "birthday": "1915-11-01T20:12:39.006Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 46
+},
+{
+  "fields": {
+    "last_name": "Young",
+    "email": "s.young@example.com",
+    "first_name": "Steven",
+    "gender": "M",
+    "treatment": "sr",
+    "birthday": "1972-11-22T08:18:12.139Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 47
+},
+{
+  "fields": {
+    "last_name": "Beltron",
+    "email": "w.beltron@example.com",
+    "first_name": "Wendy",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1921-12-11T16:01:59.224Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 48
+},
+{
+  "fields": {
+    "last_name": "Trombetta",
+    "email": "w.trombetta@example.com",
+    "first_name": "William",
+    "gender": "M",
+    "treatment": "e",
+    "birthday": "1996-11-28T03:55:05.255Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 49
+},
+{
+  "fields": {
+    "last_name": "Hedge",
+    "email": "k.hedge@example.com",
+    "first_name": "Kendall",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1944-11-01T09:50:18.123Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 50
+},
+{
+  "fields": {
+    "last_name": "Audette",
+    "email": "s.audette@example.com",
+    "first_name": "Stella",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1993-11-15T05:55:27.974Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 51
+},
+{
+  "fields": {
+    "last_name": "Nino",
+    "email": "s.nino@example.com",
+    "first_name": "Sarah",
+    "gender": "F",
+    "treatment": "pa",
+    "birthday": "1931-11-20T20:51:15.110Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 52
+},
+{
+  "fields": {
+    "last_name": "Sargent",
+    "email": "s.sargent@example.com",
+    "first_name": "Sally",
+    "gender": "F",
+    "treatment": "srta",
+    "birthday": "1996-11-24T22:43:25.243Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 53
+},
+{
+  "fields": {
+    "last_name": "Mcclenon",
+    "email": "b.mcclenon@example.com",
+    "first_name": "Brian",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1994-12-06T23:19:48.446Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 54
+},
+{
+  "fields": {
+    "last_name": "Sandoval",
+    "email": "a.sandoval@example.com",
+    "first_name": "Amy",
+    "gender": "F",
+    "treatment": "d",
+    "birthday": "1979-11-01T15:18:19.940Z",
+    "active": true,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 55
+},
+{
+  "fields": {
+    "last_name": "Freeman",
+    "email": "t.freeman@example.com",
+    "first_name": "Troy",
+    "gender": "M",
+    "treatment": "sr",
+    "birthday": "1919-12-28T01:02:22.006Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 56
+},
+{
+  "fields": {
+    "last_name": "Yang",
+    "email": "m.yang@example.com",
+    "first_name": "Mary",
+    "gender": "F",
+    "treatment": "aa",
+    "birthday": "1944-11-28T16:02:04.381Z",
+    "active": false,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 57
+},
+{
+  "fields": {
+    "last_name": "Malone",
+    "email": "h.malone@example.com",
+    "first_name": "Harold",
+    "gender": "M",
+    "treatment": "dr",
+    "birthday": "1936-11-15T07:57:27.820Z",
+    "active": false,
+    "blocked": false
+  },
+  "model": "core.customer",
+  "pk": 58
+},
+{
+  "fields": {
+    "last_name": "Miles",
+    "email": "c.miles@example.com",
+    "first_name": "Cassie",
+    "gender": "F",
+    "treatment": "sra",
+    "birthday": "1964-11-28T18:46:55.037Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 59
+},
+{
+  "fields": {
+    "last_name": "Fuller",
+    "email": "j.fuller@example.com",
+    "first_name": "Jeffrey",
+    "gender": "M",
+    "treatment": "a",
+    "birthday": "1970-11-25T20:15:21.111Z",
+    "active": true,
+    "blocked": true
+  },
+  "model": "core.customer",
+  "pk": 60
+},
+{
+  "fields": {
+    "last_name": "Taylor",
+    "email": "v.taylor@example.com",
+    "first_name": "Virginia",
+    "gender": "F",
+    "commission": "0.01",
+    "treatment": "aa",
+    "internal": true,
+    "birthday": "1963-12-26T23:51:52.234Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 1
+},
+{
+  "fields": {
+    "last_name": "Campbell",
+    "email": "c.campbell@example.com",
+    "first_name": "Chad",
+    "gender": "M",
+    "commission": "0.01",
+    "treatment": "sr",
+    "internal": true,
+    "birthday": "1987-12-20T01:51:18.296Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 2
+},
+{
+  "fields": {
+    "last_name": "Roberts",
+    "email": "d.roberts@example.com",
+    "first_name": "Dolores",
+    "gender": "F",
+    "commission": "0.05",
+    "treatment": "srta",
+    "internal": false,
+    "birthday": "1983-12-04T09:34:07.579Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 3
+},
+{
+  "fields": {
+    "last_name": "Pleasant",
+    "email": "w.pleasant@example.com",
+    "first_name": "William",
+    "gender": "M",
+    "commission": "0.02",
+    "treatment": "a",
+    "internal": true,
+    "birthday": "1965-12-06T15:02:58.142Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 4
+},
+{
+  "fields": {
+    "last_name": "Hernandez",
+    "email": "r.hernandez@example.com",
+    "first_name": "Robert",
+    "gender": "M",
+    "commission": "0.02",
+    "treatment": "e",
+    "internal": true,
+    "birthday": "1950-12-27T12:15:56.993Z",
+    "active": false,
+    "blocked": false,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 5
+},
+{
+  "fields": {
+    "last_name": "Fernandez",
+    "email": "f.fernandez@example.com",
+    "first_name": "Fannie",
+    "gender": "F",
+    "commission": "0.02",
+    "treatment": "d",
+    "internal": false,
+    "birthday": "1918-12-13T22:34:12.839Z",
+    "active": true,
+    "blocked": true,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 6
+},
+{
+  "fields": {
+    "last_name": "Edmondson",
+    "email": "p.edmondson@example.com",
+    "first_name": "Pearl",
+    "gender": "F",
+    "commission": "0.01",
+    "treatment": "srta",
+    "internal": true,
+    "birthday": "1934-11-19T02:25:22.428Z",
+    "active": false,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 7
+},
+{
+  "fields": {
+    "last_name": "Roman",
+    "email": "b.roman@example.com",
+    "first_name": "Brandi",
+    "gender": "F",
+    "commission": "0.03",
+    "treatment": "sra",
+    "internal": false,
+    "birthday": "1933-12-17T04:46:01.981Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 8
+},
+{
+  "fields": {
+    "last_name": "Rosso",
+    "email": "m.rosso@example.com",
+    "first_name": "Mary",
+    "gender": "F",
+    "commission": "0.03",
+    "treatment": "d",
+    "internal": false,
+    "birthday": "1996-11-07T21:17:59.324Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 9
+},
+{
+  "fields": {
+    "last_name": "Mckinney",
+    "email": "c.mckinney@example.com",
+    "first_name": "Charles",
+    "gender": "M",
+    "commission": "0.03",
+    "treatment": "p",
+    "internal": false,
+    "birthday": "1964-11-26T04:59:10.833Z",
+    "active": false,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 10
+},
+{
+  "fields": {
+    "last_name": "Clark",
+    "email": "a.clark@example.com",
+    "first_name": "Anthony",
+    "gender": "M",
+    "commission": "0.02",
+    "treatment": "sr",
+    "internal": false,
+    "birthday": "1969-12-13T11:28:29.233Z",
+    "active": false,
+    "blocked": false,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 11
+},
+{
+  "fields": {
+    "last_name": "Twomey",
+    "email": "m.twomey@example.com",
+    "first_name": "Marta",
+    "gender": "F",
+    "commission": "0.04",
+    "treatment": "aa",
+    "internal": true,
+    "birthday": "1928-12-06T22:33:56.257Z",
+    "active": false,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 12
+},
+{
+  "fields": {
+    "last_name": "Wallace",
+    "email": "r.wallace@example.com",
+    "first_name": "Roy",
+    "gender": "M",
+    "commission": "0.02",
+    "treatment": "dr",
+    "internal": false,
+    "birthday": "1942-12-06T15:28:47.410Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 13
+},
+{
+  "fields": {
+    "last_name": "Nelson",
+    "email": "c.nelson@example.com",
+    "first_name": "Catherine",
+    "gender": "F",
+    "commission": "0.04",
+    "treatment": "aa",
+    "internal": true,
+    "birthday": "1927-11-03T22:50:54.893Z",
+    "active": false,
+    "blocked": true,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 14
+},
+{
+  "fields": {
+    "last_name": "Deblauw",
+    "email": "h.deblauw@example.com",
+    "first_name": "Hunter",
+    "gender": "M",
+    "commission": "0.01",
+    "treatment": "dr",
+    "internal": false,
+    "birthday": "1966-12-14T14:33:52.235Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 15
+},
+{
+  "fields": {
+    "last_name": "Yahna",
+    "email": "p.yahna@example.com",
+    "first_name": "Patricia",
+    "gender": "F",
+    "commission": "0.05",
+    "treatment": "pa",
+    "internal": false,
+    "birthday": "1924-11-08T13:41:05.549Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 16
+},
+{
+  "fields": {
+    "last_name": "Shallenberger",
+    "email": "j.shallenberger@example.com",
+    "first_name": "Jonathan",
+    "gender": "M",
+    "commission": "0.02",
+    "treatment": "p",
+    "internal": false,
+    "birthday": "1956-12-01T14:25:34.670Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 17
+},
+{
+  "fields": {
+    "last_name": "Daniels",
+    "email": "a.daniels@example.com",
+    "first_name": "Amy",
+    "gender": "F",
+    "commission": "0.01",
+    "treatment": "srta",
+    "internal": false,
+    "birthday": "1924-12-22T02:42:52.739Z",
+    "active": true,
+    "blocked": false,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 18
+},
+{
+  "fields": {
+    "last_name": "Stuart",
+    "email": "l.stuart@example.com",
+    "first_name": "Lorraine",
+    "gender": "F",
+    "commission": "0.05",
+    "treatment": "aa",
+    "internal": false,
+    "birthday": "1968-12-14T11:29:16.465Z",
+    "active": true,
+    "blocked": true,
+    "commissioned": true
+  },
+  "model": "core.seller",
+  "pk": 19
+},
+{
+  "fields": {
+    "last_name": "Giles",
+    "email": "p.giles@example.com",
+    "first_name": "Patrick",
+    "gender": "M",
+    "commission": "0.04",
+    "treatment": "a",
+    "internal": true,
+    "birthday": "1925-11-08T09:08:56.972Z",
+    "active": true,
+    "blocked": true,
+    "commissioned": false
+  },
+  "model": "core.seller",
+  "pk": 20
+},
+{
+  "fields": {
+    "rg": "2817845095",
+    "cpf": "09718147300"
+  },
+  "model": "core.pf",
+  "pk": 33
+},
+{
+  "fields": {
+    "rg": "7023885413",
+    "cpf": "50693983564"
+  },
+  "model": "core.pf",
+  "pk": 38
+},
+{
+  "fields": {
+    "rg": "8988704462",
+    "cpf": "78421481737"
+  },
+  "model": "core.pf",
+  "pk": 25
+},
+{
+  "fields": {
+    "rg": "2530034077",
+    "cpf": "00658098048"
+  },
+  "model": "core.pf",
+  "pk": 22
+},
+{
+  "fields": {
+    "rg": "8711063350",
+    "cpf": "73672676940"
+  },
+  "model": "core.pf",
+  "pk": 21
+},
+{
+  "fields": {
+    "rg": "1547810704",
+    "cpf": "46059878947"
+  },
+  "model": "core.pf",
+  "pk": 24
+},
+{
+  "fields": {
+    "rg": "9261816529",
+    "cpf": "20425523197"
+  },
+  "model": "core.pf",
+  "pk": 26
+},
+{
+  "fields": {
+    "rg": "4426106553",
+    "cpf": "57355240057"
+  },
+  "model": "core.pf",
+  "pk": 35
+},
+{
+  "fields": {
+    "rg": "7997212582",
+    "cpf": "17133023651"
+  },
+  "model": "core.pf",
+  "pk": 40
+},
+{
+  "fields": {
+    "rg": "7472980426",
+    "cpf": "70921573457"
+  },
+  "model": "core.pf",
+  "pk": 39
+},
+{
+  "fields": {
+    "rg": "4369012653",
+    "cpf": "45352190718"
+  },
+  "model": "core.pf",
+  "pk": 32
+},
+{
+  "fields": {
+    "rg": "5520358350",
+    "cpf": "91730182091"
+  },
+  "model": "core.pf",
+  "pk": 29
+},
+{
+  "fields": {
+    "rg": "5160507105",
+    "cpf": "66280845193"
+  },
+  "model": "core.pf",
+  "pk": 30
+},
+{
+  "fields": {
+    "rg": "6599812885",
+    "cpf": "16883989134"
+  },
+  "model": "core.pf",
+  "pk": 23
+},
+{
+  "fields": {
+    "rg": "8318418262",
+    "cpf": "31518519176"
+  },
+  "model": "core.pf",
+  "pk": 34
+},
+{
+  "fields": {
+    "rg": "4607982483",
+    "cpf": "31826335337"
+  },
+  "model": "core.pf",
+  "pk": 27
+},
+{
+  "fields": {
+    "rg": "9493016489",
+    "cpf": "29609540974"
+  },
+  "model": "core.pf",
+  "pk": 28
+},
+{
+  "fields": {
+    "rg": "3902497230",
+    "cpf": "88322580003"
+  },
+  "model": "core.pf",
+  "pk": 31
+},
+{
+  "fields": {
+    "rg": "7707126560",
+    "cpf": "13934177441"
+  },
+  "model": "core.pf",
+  "pk": 37
+},
+{
+  "fields": {
+    "rg": "3352263910",
+    "cpf": "17912744940"
+  },
+  "model": "core.pf",
+  "pk": 36
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "68483429032324"
+  },
+  "model": "core.pj",
+  "pk": 55
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "56466379755975"
+  },
+  "model": "core.pj",
+  "pk": 54
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "26688075123398"
+  },
+  "model": "core.pj",
+  "pk": 43
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "21163663191896"
+  },
+  "model": "core.pj",
+  "pk": 59
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "64975869268282"
+  },
+  "model": "core.pj",
+  "pk": 42
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "40773387019363"
+  },
+  "model": "core.pj",
+  "pk": 58
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "48202517306719"
+  },
+  "model": "core.pj",
+  "pk": 60
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "35163643710237"
+  },
+  "model": "core.pj",
+  "pk": 50
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "43896848808678"
+  },
+  "model": "core.pj",
+  "pk": 45
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "18039968591673"
+  },
+  "model": "core.pj",
+  "pk": 57
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "27529274440273"
+  },
+  "model": "core.pj",
+  "pk": 53
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "61444838674105"
+  },
+  "model": "core.pj",
+  "pk": 41
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "08334895445898"
+  },
+  "model": "core.pj",
+  "pk": 44
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "52053008730953"
+  },
+  "model": "core.pj",
+  "pk": 52
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "65033276774659"
+  },
+  "model": "core.pj",
+  "pk": 51
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "95123223479574"
+  },
+  "model": "core.pj",
+  "pk": 47
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "09580446757241"
+  },
+  "model": "core.pj",
+  "pk": 46
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "13830910687308"
+  },
+  "model": "core.pj",
+  "pk": 56
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "75335703901032"
+  },
+  "model": "core.pj",
+  "pk": 48
+},
+{
+  "fields": {
+    "ie": "isento",
+    "cnpj": "87145177901389"
+  },
+  "model": "core.pj",
+  "pk": 49
+},
+{
+  "fields": {
+    "customer": 56,
+    "created": "2015-10-20T00:25:23.979Z",
+    "modified": "2015-10-20T00:25:23.979Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 1
+},
+{
+  "fields": {
+    "customer": 40,
+    "created": "2015-10-20T00:25:24.119Z",
+    "modified": "2015-10-20T00:25:24.119Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 2
+},
+{
+  "fields": {
+    "customer": 12,
+    "created": "2015-10-20T00:25:24.285Z",
+    "modified": "2015-10-20T00:25:24.285Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 3
+},
+{
+  "fields": {
+    "customer": 53,
+    "created": "2015-10-20T00:25:24.409Z",
+    "modified": "2015-10-20T00:25:24.409Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 4
+},
+{
+  "fields": {
+    "customer": 14,
+    "created": "2015-10-20T00:25:24.531Z",
+    "modified": "2015-10-20T00:25:24.531Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 5
+},
+{
+  "fields": {
+    "customer": 14,
+    "created": "2015-10-20T00:25:24.654Z",
+    "modified": "2015-10-20T00:25:24.655Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 6
+},
+{
+  "fields": {
+    "customer": 3,
+    "created": "2015-10-20T00:25:24.798Z",
+    "modified": "2015-10-20T00:25:24.798Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 7
+},
+{
+  "fields": {
+    "customer": 43,
+    "created": "2015-10-20T00:25:24.920Z",
+    "modified": "2015-10-20T00:25:24.920Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 8
+},
+{
+  "fields": {
+    "customer": 42,
+    "created": "2015-10-20T00:25:25.065Z",
+    "modified": "2015-10-20T00:25:25.065Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 9
+},
+{
+  "fields": {
+    "customer": 59,
+    "created": "2015-10-20T00:25:25.210Z",
+    "modified": "2015-10-20T00:25:25.210Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 10
+},
+{
+  "fields": {
+    "customer": 41,
+    "created": "2015-10-20T00:25:25.367Z",
+    "modified": "2015-10-20T00:25:25.367Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 11
+},
+{
+  "fields": {
+    "customer": 19,
+    "created": "2015-10-20T00:25:25.511Z",
+    "modified": "2015-10-20T00:25:25.511Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 12
+},
+{
+  "fields": {
+    "customer": 4,
+    "created": "2015-10-20T00:25:25.635Z",
+    "modified": "2015-10-20T00:25:25.635Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 13
+},
+{
+  "fields": {
+    "customer": 30,
+    "created": "2015-10-20T00:25:25.757Z",
+    "modified": "2015-10-20T00:25:25.757Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 14
+},
+{
+  "fields": {
+    "customer": 51,
+    "created": "2015-10-20T00:25:25.913Z",
+    "modified": "2015-10-20T00:25:25.913Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 15
+},
+{
+  "fields": {
+    "customer": 3,
+    "created": "2015-10-20T00:25:26.059Z",
+    "modified": "2015-10-20T00:25:26.059Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 16
+},
+{
+  "fields": {
+    "customer": 28,
+    "created": "2015-10-20T00:25:26.204Z",
+    "modified": "2015-10-20T00:25:26.204Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 17
+},
+{
+  "fields": {
+    "customer": 46,
+    "created": "2015-10-20T00:25:26.348Z",
+    "modified": "2015-10-20T00:25:26.348Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 18
+},
+{
+  "fields": {
+    "customer": 27,
+    "created": "2015-10-20T00:25:26.515Z",
+    "modified": "2015-10-20T00:25:26.515Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 19
+},
+{
+  "fields": {
+    "customer": 55,
+    "created": "2015-10-20T00:25:26.671Z",
+    "modified": "2015-10-20T00:25:26.671Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 20
+},
+{
+  "fields": {
+    "customer": 51,
+    "created": "2015-10-20T00:25:26.815Z",
+    "modified": "2015-10-20T00:25:26.815Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 21
+},
+{
+  "fields": {
+    "customer": 14,
+    "created": "2015-10-20T00:25:26.973Z",
+    "modified": "2015-10-20T00:25:26.973Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 22
+},
+{
+  "fields": {
+    "customer": 5,
+    "created": "2015-10-20T00:25:27.128Z",
+    "modified": "2015-10-20T00:25:27.128Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 23
+},
+{
+  "fields": {
+    "customer": 46,
+    "created": "2015-10-20T00:25:27.273Z",
+    "modified": "2015-10-20T00:25:27.273Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 24
+},
+{
+  "fields": {
+    "customer": 40,
+    "created": "2015-10-20T00:25:27.518Z",
+    "modified": "2015-10-20T00:25:27.518Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 25
+},
+{
+  "fields": {
+    "customer": 22,
+    "created": "2015-10-20T00:25:27.661Z",
+    "modified": "2015-10-20T00:25:27.661Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 26
+},
+{
+  "fields": {
+    "customer": 37,
+    "created": "2015-10-20T00:25:27.851Z",
+    "modified": "2015-10-20T00:25:27.852Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 27
+},
+{
+  "fields": {
+    "customer": 2,
+    "created": "2015-10-20T00:25:28.039Z",
+    "modified": "2015-10-20T00:25:28.039Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 28
+},
+{
+  "fields": {
+    "customer": 31,
+    "created": "2015-10-20T00:25:28.207Z",
+    "modified": "2015-10-20T00:25:28.207Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 29
+},
+{
+  "fields": {
+    "customer": 54,
+    "created": "2015-10-20T00:25:28.352Z",
+    "modified": "2015-10-20T00:25:28.352Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 30
+},
+{
+  "fields": {
+    "customer": 56,
+    "created": "2015-10-20T00:25:28.495Z",
+    "modified": "2015-10-20T00:25:28.495Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 31
+},
+{
+  "fields": {
+    "customer": 57,
+    "created": "2015-10-20T00:25:28.664Z",
+    "modified": "2015-10-20T00:25:28.664Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 32
+},
+{
+  "fields": {
+    "customer": 36,
+    "created": "2015-10-20T00:25:28.970Z",
+    "modified": "2015-10-20T00:25:28.970Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 33
+},
+{
+  "fields": {
+    "customer": 57,
+    "created": "2015-10-20T00:25:29.141Z",
+    "modified": "2015-10-20T00:25:29.141Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 34
+},
+{
+  "fields": {
+    "customer": 17,
+    "created": "2015-10-20T00:25:29.308Z",
+    "modified": "2015-10-20T00:25:29.309Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 35
+},
+{
+  "fields": {
+    "customer": 40,
+    "created": "2015-10-20T00:25:29.499Z",
+    "modified": "2015-10-20T00:25:29.499Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 36
+},
+{
+  "fields": {
+    "customer": 59,
+    "created": "2015-10-20T00:25:29.641Z",
+    "modified": "2015-10-20T00:25:29.641Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 37
+},
+{
+  "fields": {
+    "customer": 10,
+    "created": "2015-10-20T00:25:29.830Z",
+    "modified": "2015-10-20T00:25:29.830Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 38
+},
+{
+  "fields": {
+    "customer": 59,
+    "created": "2015-10-20T00:25:29.988Z",
+    "modified": "2015-10-20T00:25:29.988Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 39
+},
+{
+  "fields": {
+    "customer": 56,
+    "created": "2015-10-20T00:25:30.187Z",
+    "modified": "2015-10-20T00:25:30.187Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 40
+},
+{
+  "fields": {
+    "customer": 22,
+    "created": "2015-10-20T00:25:30.455Z",
+    "modified": "2015-10-20T00:25:30.455Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 41
+},
+{
+  "fields": {
+    "customer": 20,
+    "created": "2015-10-20T00:25:30.623Z",
+    "modified": "2015-10-20T00:25:30.623Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 42
+},
+{
+  "fields": {
+    "customer": 8,
+    "created": "2015-10-20T00:25:30.766Z",
+    "modified": "2015-10-20T00:25:30.766Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 43
+},
+{
+  "fields": {
+    "customer": 27,
+    "created": "2015-10-20T00:25:30.910Z",
+    "modified": "2015-10-20T00:25:30.910Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 44
+},
+{
+  "fields": {
+    "customer": 31,
+    "created": "2015-10-20T00:25:31.112Z",
+    "modified": "2015-10-20T00:25:31.112Z",
+    "status": "ca"
+  },
+  "model": "core.ordered",
+  "pk": 45
+},
+{
+  "fields": {
+    "customer": 21,
+    "created": "2015-10-20T00:25:31.277Z",
+    "modified": "2015-10-20T00:25:31.277Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 46
+},
+{
+  "fields": {
+    "customer": 4,
+    "created": "2015-10-20T00:25:31.444Z",
+    "modified": "2015-10-20T00:25:31.444Z",
+    "status": "co"
+  },
+  "model": "core.ordered",
+  "pk": 47
+},
+{
+  "fields": {
+    "customer": 25,
+    "created": "2015-10-20T00:25:31.622Z",
+    "modified": "2015-10-20T00:25:31.623Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 48
+},
+{
+  "fields": {
+    "customer": 45,
+    "created": "2015-10-20T00:25:31.801Z",
+    "modified": "2015-10-20T00:25:31.801Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 49
+},
+{
+  "fields": {
+    "customer": 50,
+    "created": "2015-10-20T00:25:32.276Z",
+    "modified": "2015-10-20T00:25:32.276Z",
+    "status": "pe"
+  },
+  "model": "core.ordered",
+  "pk": 50
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 2,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2014-12-17T19:05:09.612Z"
+  },
+  "model": "core.sale",
+  "pk": 1
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 4,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-12-24T09:04:40.333Z"
+  },
+  "model": "core.sale",
+  "pk": 2
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 11,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-12-08T15:39:44.645Z"
+  },
+  "model": "core.sale",
+  "pk": 3
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 13,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-12-20T18:46:14.255Z"
+  },
+  "model": "core.sale",
+  "pk": 4
+},
+{
+  "fields": {
+    "paid": false,
+    "ordered": 16,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": null
+  },
+  "model": "core.sale",
+  "pk": 5
+},
+{
+  "fields": {
+    "paid": false,
+    "ordered": 20,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": null
+  },
+  "model": "core.sale",
+  "pk": 6
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 24,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2014-11-14T20:04:28.508Z"
+  },
+  "model": "core.sale",
+  "pk": 7
+},
+{
+  "fields": {
+    "paid": false,
+    "ordered": 27,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": null
+  },
+  "model": "core.sale",
+  "pk": 8
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 28,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-11-21T05:10:06.999Z"
+  },
+  "model": "core.sale",
+  "pk": 9
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 29,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2014-12-25T11:46:07.508Z"
+  },
+  "model": "core.sale",
+  "pk": 10
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 33,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-12-14T05:30:34.518Z"
+  },
+  "model": "core.sale",
+  "pk": 11
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 34,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-11-03T19:01:17.460Z"
+  },
+  "model": "core.sale",
+  "pk": 12
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 37,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2014-11-05T17:32:46.115Z"
+  },
+  "model": "core.sale",
+  "pk": 13
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 38,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-12-10T16:59:52.983Z"
+  },
+  "model": "core.sale",
+  "pk": 14
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 43,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2015-11-25T01:32:27.381Z"
+  },
+  "model": "core.sale",
+  "pk": 15
+},
+{
+  "fields": {
+    "paid": false,
+    "ordered": 46,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": null
+  },
+  "model": "core.sale",
+  "pk": 16
+},
+{
+  "fields": {
+    "paid": true,
+    "ordered": 47,
+    "deadline": "30 dias",
+    "method": "d\u00e9bito",
+    "date_paid": "2014-12-16T16:21:06.695Z"
+  },
+  "model": "core.sale",
+  "pk": 17
+},
+{
+  "fields": {
+    "name": "Mirjam Pressler",
+    "age": 69
+  },
+  "model": "core.author",
+  "pk": 1
+},
+{
+  "fields": {
+    "name": "Otto H. Frank",
+    "age": 20
+  },
+  "model": "core.author",
+  "pk": 2
+},
+{
+  "fields": {
+    "name": "Jerry B. Jenkins",
+    "age": 93
+  },
+  "model": "core.author",
+  "pk": 3
+},
+{
+  "fields": {
+    "name": "Tim LaHaye",
+    "age": 64
+  },
+  "model": "core.author",
+  "pk": 4
+},
+{
+  "fields": {
+    "name": "Johanna Basford",
+    "age": 95
+  },
+  "model": "core.author",
+  "pk": 5
+},
+{
+  "fields": {
+    "name": "Padre Marcelo",
+    "age": 89
+  },
+  "model": "core.author",
+  "pk": 6
+},
+{
+  "fields": {
+    "name": "Edir Macedo",
+    "age": 15
+  },
+  "model": "core.author",
+  "pk": 7
+},
+{
+  "fields": {
+    "name": "Augusto Cury",
+    "age": 24
+  },
+  "model": "core.author",
+  "pk": 8
+},
+{
+  "fields": {
+    "name": "Antoine Saint-Exup\u00e9ry",
+    "age": 78
+  },
+  "model": "core.author",
+  "pk": 9
+},
+{
+  "fields": {
+    "name": "Christian Figueiredo de Caldas",
+    "age": 36
+  },
+  "model": "core.author",
+  "pk": 10
+},
+{
+  "fields": {
+    "name": "Isabela Freitas",
+    "age": 62
+  },
+  "model": "core.author",
+  "pk": 11
+},
+{
+  "fields": {
+    "name": "Gayle Forman",
+    "age": 16
+  },
+  "model": "core.author",
+  "pk": 12
+},
+{
+  "fields": {
+    "name": "Kiera Cass",
+    "age": 75
+  },
+  "model": "core.author",
+  "pk": 13
+},
+{
+  "fields": {
+    "name": "John Green",
+    "age": 97
+  },
+  "model": "core.author",
+  "pk": 14
+},
+{
+  "fields": {
+    "name": "K\u00e9fera Buchmann",
+    "age": 67
+  },
+  "model": "core.author",
+  "pk": 15
+},
+{
+  "fields": {
+    "name": "Bela Gil",
+    "age": 25
+  },
+  "model": "core.author",
+  "pk": 16
+},
+{
+  "fields": {
+    "name": "Jeff Kinney",
+    "age": 50
+  },
+  "model": "core.author",
+  "pk": 17
+},
+{
+  "fields": {
+    "name": "Marie Kondo",
+    "age": 61
+  },
+  "model": "core.author",
+  "pk": 18
+},
+{
+  "fields": {
+    "name": "Fl\u00e1vio Augusto da Silva",
+    "age": 49
+  },
+  "model": "core.author",
+  "pk": 19
+},
+{
+  "fields": {
+    "name": "Anthony Doerr",
+    "age": 30
+  },
+  "model": "core.author",
+  "pk": 20
+},
+{
+  "fields": {
+    "name": "Record",
+    "num_awards": 994
+  },
+  "model": "core.publisher",
+  "pk": 1
+},
+{
+  "fields": {
+    "name": "United Press",
+    "num_awards": 800
+  },
+  "model": "core.publisher",
+  "pk": 2
+},
+{
+  "fields": {
+    "name": "Sextante",
+    "num_awards": 58
+  },
+  "model": "core.publisher",
+  "pk": 3
+},
+{
+  "fields": {
+    "name": "Principium",
+    "num_awards": 979
+  },
+  "model": "core.publisher",
+  "pk": 4
+},
+{
+  "fields": {
+    "name": "Planeta do Brasil",
+    "num_awards": 991
+  },
+  "model": "core.publisher",
+  "pk": 5
+},
+{
+  "fields": {
+    "name": "Saraiva",
+    "num_awards": 783
+  },
+  "model": "core.publisher",
+  "pk": 6
+},
+{
+  "fields": {
+    "name": "Agir",
+    "num_awards": 66
+  },
+  "model": "core.publisher",
+  "pk": 7
+},
+{
+  "fields": {
+    "name": "Novas P\u00e1ginas",
+    "num_awards": 985
+  },
+  "model": "core.publisher",
+  "pk": 8
+},
+{
+  "fields": {
+    "name": "Intr\u00ednseca",
+    "num_awards": 967
+  },
+  "model": "core.publisher",
+  "pk": 9
+},
+{
+  "fields": {
+    "name": "Novo Conceito",
+    "num_awards": 969
+  },
+  "model": "core.publisher",
+  "pk": 10
+},
+{
+  "fields": {
+    "name": "Seguinte",
+    "num_awards": 264
+  },
+  "model": "core.publisher",
+  "pk": 11
+},
+{
+  "fields": {
+    "name": "Paralela",
+    "num_awards": 733
+  },
+  "model": "core.publisher",
+  "pk": 12
+},
+{
+  "fields": {
+    "name": "Globo Estilo",
+    "num_awards": 29
+  },
+  "model": "core.publisher",
+  "pk": 13
+},
+{
+  "fields": {
+    "name": "Vergara e Riba",
+    "num_awards": 390
+  },
+  "model": "core.publisher",
+  "pk": 14
+},
+{
+  "fields": {
+    "name": "O di\u00e1rio de Anne Frank",
+    "modified": "2015-10-20T00:25:36.776Z",
+    "isbn": 4846710805,
+    "price": "0.40",
+    "stock": 104,
+    "rating": 9.18,
+    "authors": [
+      1,
+      2
+    ],
+    "created": "2015-10-20T00:25:36.776Z",
+    "stock_min": 58,
+    "publisher": 1
+  },
+  "model": "core.book",
+  "pk": 1
+},
+{
+  "fields": {
+    "name": "Deixados Para Tr\u00e1s",
+    "modified": "2015-10-20T00:25:37.843Z",
+    "isbn": 7599822983,
+    "price": "8.35",
+    "stock": 585,
+    "rating": 2.53,
+    "authors": [
+      3,
+      4
+    ],
+    "created": "2015-10-20T00:25:37.843Z",
+    "stock_min": 69,
+    "publisher": 2
+  },
+  "model": "core.book",
+  "pk": 2
+},
+{
+  "fields": {
+    "name": "Jardim secreto",
+    "modified": "2015-10-20T00:25:38.812Z",
+    "isbn": 6232881371,
+    "price": "2.38",
+    "stock": 456,
+    "rating": 3.97,
+    "authors": [
+      5
+    ],
+    "created": "2015-10-20T00:25:38.812Z",
+    "stock_min": 60,
+    "publisher": 3
+  },
+  "model": "core.book",
+  "pk": 3
+},
+{
+  "fields": {
+    "name": "Floresta encantada",
+    "modified": "2015-10-20T00:25:39.091Z",
+    "isbn": 3205005435,
+    "price": "4.39",
+    "stock": 316,
+    "rating": 7.11,
+    "authors": [
+      5
+    ],
+    "created": "2015-10-20T00:25:39.091Z",
+    "stock_min": 75,
+    "publisher": 3
+  },
+  "model": "core.book",
+  "pk": 4
+},
+{
+  "fields": {
+    "name": "Philia",
+    "modified": "2015-10-20T00:25:39.715Z",
+    "isbn": 1732677978,
+    "price": "3.38",
+    "stock": 743,
+    "rating": 5.98,
+    "authors": [
+      6
+    ],
+    "created": "2015-10-20T00:25:39.715Z",
+    "stock_min": 49,
+    "publisher": 4
+  },
+  "model": "core.book",
+  "pk": 5
+},
+{
+  "fields": {
+    "name": "Nada a perder 3",
+    "modified": "2015-10-20T00:25:40.453Z",
+    "isbn": 3725081068,
+    "price": "1.07",
+    "stock": 288,
+    "rating": 3.61,
+    "authors": [
+      7
+    ],
+    "created": "2015-10-20T00:25:40.452Z",
+    "stock_min": 32,
+    "publisher": 5
+  },
+  "model": "core.book",
+  "pk": 6
+},
+{
+  "fields": {
+    "name": "Ansiedade: Como enfrentar o mal do s\u00e9culo",
+    "modified": "2015-10-20T00:25:41.018Z",
+    "isbn": 4616952631,
+    "price": "7.56",
+    "stock": 84,
+    "rating": 8.81,
+    "authors": [
+      8
+    ],
+    "created": "2015-10-20T00:25:41.018Z",
+    "stock_min": 34,
+    "publisher": 6
+  },
+  "model": "core.book",
+  "pk": 7
+},
+{
+  "fields": {
+    "name": "O pequeno pr\u00edncipe",
+    "modified": "2015-10-20T00:25:41.554Z",
+    "isbn": 7090707165,
+    "price": "9.67",
+    "stock": 75,
+    "rating": 6.34,
+    "authors": [
+      9
+    ],
+    "created": "2015-10-20T00:25:41.553Z",
+    "stock_min": 91,
+    "publisher": 7
+  },
+  "model": "core.book",
+  "pk": 8
+},
+{
+  "fields": {
+    "name": "Eu fico loko",
+    "modified": "2015-10-20T00:25:42.396Z",
+    "isbn": 3190617364,
+    "price": "5.19",
+    "stock": 362,
+    "rating": 2.69,
+    "authors": [
+      10
+    ],
+    "created": "2015-10-20T00:25:42.396Z",
+    "stock_min": 18,
+    "publisher": 8
+  },
+  "model": "core.book",
+  "pk": 9
+},
+{
+  "fields": {
+    "name": "N\u00e3o se apega n\u00e3o",
+    "modified": "2015-10-20T00:25:43.009Z",
+    "isbn": 7898031237,
+    "price": "3.50",
+    "stock": 834,
+    "rating": 1.09,
+    "authors": [
+      11
+    ],
+    "created": "2015-10-20T00:25:43.008Z",
+    "stock_min": 71,
+    "publisher": 9
+  },
+  "model": "core.book",
+  "pk": 10
+},
+{
+  "fields": {
+    "name": "Se eu ficar",
+    "modified": "2015-10-20T00:25:43.635Z",
+    "isbn": 8617022568,
+    "price": "4.17",
+    "stock": 85,
+    "rating": 4.91,
+    "authors": [
+      12
+    ],
+    "created": "2015-10-20T00:25:43.635Z",
+    "stock_min": 48,
+    "publisher": 10
+  },
+  "model": "core.book",
+  "pk": 11
+},
+{
+  "fields": {
+    "name": "A herdeira",
+    "modified": "2015-10-20T00:25:44.268Z",
+    "isbn": 9654189542,
+    "price": "2.25",
+    "stock": 767,
+    "rating": 8.27,
+    "authors": [
+      13
+    ],
+    "created": "2015-10-20T00:25:44.268Z",
+    "stock_min": 30,
+    "publisher": 11
+  },
+  "model": "core.book",
+  "pk": 12
+},
+{
+  "fields": {
+    "name": "Cidades de papel",
+    "modified": "2015-10-20T00:25:44.779Z",
+    "isbn": 6445427484,
+    "price": "5.41",
+    "stock": 388,
+    "rating": 2.82,
+    "authors": [
+      14
+    ],
+    "created": "2015-10-20T00:25:44.779Z",
+    "stock_min": 40,
+    "publisher": 9
+  },
+  "model": "core.book",
+  "pk": 13
+},
+{
+  "fields": {
+    "name": "Muito mais que 5inco minutos",
+    "modified": "2015-10-20T00:25:45.605Z",
+    "isbn": 7420392422,
+    "price": "1.75",
+    "stock": 911,
+    "rating": 3.63,
+    "authors": [
+      15
+    ],
+    "created": "2015-10-20T00:25:45.605Z",
+    "stock_min": 87,
+    "publisher": 12
+  },
+  "model": "core.book",
+  "pk": 14
+},
+{
+  "fields": {
+    "name": "Bela cozinha",
+    "modified": "2015-10-20T00:25:46.163Z",
+    "isbn": 1060844516,
+    "price": "0.20",
+    "stock": 957,
+    "rating": 4.88,
+    "authors": [
+      16
+    ],
+    "created": "2015-10-20T00:25:46.163Z",
+    "stock_min": 84,
+    "publisher": 13
+  },
+  "model": "core.book",
+  "pk": 15
+},
+{
+  "fields": {
+    "name": "Di\u00e1rio de um banana - Caindo na estrada",
+    "modified": "2015-10-20T00:25:46.700Z",
+    "isbn": 3977365900,
+    "price": "6.09",
+    "stock": 865,
+    "rating": 1.25,
+    "authors": [
+      17
+    ],
+    "created": "2015-10-20T00:25:46.700Z",
+    "stock_min": 91,
+    "publisher": 14
+  },
+  "model": "core.book",
+  "pk": 16
+},
+{
+  "fields": {
+    "name": "N\u00e3o se iluda n\u00e3o",
+    "modified": "2015-10-20T00:25:47.044Z",
+    "isbn": 6639458404,
+    "price": "1.77",
+    "stock": 604,
+    "rating": 4.56,
+    "authors": [
+      11
+    ],
+    "created": "2015-10-20T00:25:47.044Z",
+    "stock_min": 89,
+    "publisher": 9
+  },
+  "model": "core.book",
+  "pk": 17
+},
+{
+  "fields": {
+    "name": "A m\u00e1gica da arruma\u00e7\u00e3o",
+    "modified": "2015-10-20T00:25:47.466Z",
+    "isbn": 2744510692,
+    "price": "3.27",
+    "stock": 31,
+    "rating": 3.69,
+    "authors": [
+      18
+    ],
+    "created": "2015-10-20T00:25:47.466Z",
+    "stock_min": 78,
+    "publisher": 3
+  },
+  "model": "core.book",
+  "pk": 18
+},
+{
+  "fields": {
+    "name": "Gera\u00e7\u00e3o de valor",
+    "modified": "2015-10-20T00:25:47.868Z",
+    "isbn": 1864417217,
+    "price": "5.81",
+    "stock": 196,
+    "rating": 7.87,
+    "authors": [
+      19
+    ],
+    "created": "2015-10-20T00:25:47.868Z",
+    "stock_min": 99,
+    "publisher": 3
+  },
+  "model": "core.book",
+  "pk": 19
+},
+{
+  "fields": {
+    "name": "Para onde ela foi",
+    "modified": "2015-10-20T00:25:48.151Z",
+    "isbn": 197527637,
+    "price": "8.86",
+    "stock": 405,
+    "rating": 8.15,
+    "authors": [
+      12
+    ],
+    "created": "2015-10-20T00:25:48.151Z",
+    "stock_min": 70,
+    "publisher": 10
+  },
+  "model": "core.book",
+  "pk": 20
+},
+{
+  "fields": {
+    "name": "Toda luz que n\u00e3o podemos ver",
+    "modified": "2015-10-20T00:25:48.570Z",
+    "isbn": 9672324242,
+    "price": "9.87",
+    "stock": 752,
+    "rating": 0.4,
+    "authors": [
+      20
+    ],
+    "created": "2015-10-20T00:25:48.570Z",
+    "stock_min": 66,
+    "publisher": 9
+  },
+  "model": "core.book",
+  "pk": 21
+},
+{
+  "fields": {
+    "name": "Argumento",
+    "books": [
+      18,
+      13,
+      16,
+      19,
+      14,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 1
+},
+{
+  "fields": {
+    "name": "Cultura",
+    "books": [
+      12,
+      18,
+      19,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 2
+},
+{
+  "fields": {
+    "name": "Curitiba",
+    "books": [
+      12,
+      18,
+      15,
+      16,
+      19,
+      14,
+      17,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 3
+},
+{
+  "fields": {
+    "name": "FNAC",
+    "books": [
+      12,
+      18,
+      15,
+      13,
+      16,
+      19,
+      14,
+      17,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 4
+},
+{
+  "fields": {
+    "name": "La Selva",
+    "books": [
+      15,
+      13,
+      16,
+      19,
+      14,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 5
+},
+{
+  "fields": {
+    "name": "Leitura",
+    "books": [
+      12,
+      18,
+      15,
+      16,
+      19,
+      14,
+      17,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 6
+},
+{
+  "fields": {
+    "name": "Livraria da Vila",
+    "books": [
+      12,
+      18,
+      15,
+      13,
+      16,
+      19,
+      14,
+      17,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 7
+},
+{
+  "fields": {
+    "name": "Martins Fontes",
+    "books": [
+      18,
+      13,
+      19,
+      14,
+      17,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 8
+},
+{
+  "fields": {
+    "name": "Nobel",
+    "books": [
+      15,
+      13,
+      17,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 9
+},
+{
+  "fields": {
+    "name": "Saraiva",
+    "books": [
+      12,
+      18,
+      15,
+      13,
+      16,
+      19,
+      14,
+      17,
+      20,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 10
+},
+{
+  "fields": {
+    "name": "Super News",
+    "books": [
+      12,
+      13,
+      19,
+      21
+    ]
+  },
+  "model": "core.store",
+  "pk": 11
+},
+{
+  "fields": {
+    "name": "Travessa",
+    "books": [
+      12,
+      18,
+      13,
+      16,
+      17,
+      20
+    ]
+  },
+  "model": "core.store",
+  "pk": 12
+}
+]
