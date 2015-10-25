@@ -32,10 +32,19 @@ def gen_phone():
 
 
 def gen_timestamp(min_year=1915, max_year=1996):
+    # gera um datetime no formato yyyy-mm-dd hh:mm:ss.000000
     min_date = datetime(min_year, 1, 1)
     max_date = datetime(max_year + 1, 1, 1)
     delta = random() * (max_date - min_date).total_seconds()
     return (min_date + timedelta(seconds=delta)).isoformat(" ")
+
+''' sorteio que cai dia 29 de fevereiro
+i,d=0,gen_timestamp()
+while d[5:10] != '02-29' and i < 100000:
+    i, d=i+1,gen_timestamp()
+
+i,d
+'''
 
 
 def gen_decimal(max_digits=5, decimal_places=2):
